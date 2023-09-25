@@ -1,0 +1,22 @@
+{
+  "name": "@codeblocks.sk/nuxt-auth-graphql-auth",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeblocks-sk/nuxt-auth-graphql-auth.git"
+  },
+  "author": "Dávid Ďurčo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeblocks-sk/nuxt-auth-graphql-auth/issues"
+  },
+  "homepage": "https://github.com/codeblocks-sk/nuxt-auth-graphql-auth#readme",
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1667386184.dfbbb54"
+  }
+}
